@@ -15,7 +15,7 @@ async def on_ready():
 
 @client.command()
 async def hello(ctx):
-    await ctx.send("Hello, I am the youtube bot")
+    await ctx.send("Hello, Saya HarlanBOT")
 
 
 client.run(secret_data['discord-bot']['token'])
